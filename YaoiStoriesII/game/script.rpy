@@ -10,6 +10,9 @@ label start:
     "{i}Though today, for some reason, it was mostly the two of them together."
     "{i}There was a group of elderly men, who looked like they had stayed all morning in the onsen, before leaving Sigurd and Kaisei alone."
 
+    scene onsenscene
+    with dissolve
+
 
 
     return
