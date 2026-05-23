@@ -71,6 +71,31 @@ label start:
 
     ka '"Possibilities are infinite. What would you like to see ?"'
 
+    s '"Hmm... Can you change your hair colour ?"'
+
+    "To his words, the fox’s hair grew darker in a few instant. The silver roots spread in a black mass cascading over his shoulders. The Swedish man couldn't hold back a low {i}Damn{/i} under his breath."
+    "To see such a drastic change in mere seconds was a bit of a surprise, one that only ignited his curiosity even more."
+
+    s '"Well, well, don’t you look handsome like this ?"'
+
+    ka '"My, what a flattering man."'
+    "Kaisei spoke softly, changing back to his silver hair."
+
+    "Pushing his luck, the dragon made more demands, all more silly one after the other."
+    "The colour of his eyes to red, his height, his hands changing into more anthropomorphic ones, making his fox features show up..."
+    "He sounded like a kid. And this alone would bore the silver fox to death."
+    "But this time was an exception."
+    "Maybe it was because of the calm environment, but he actually enjoyed sharing a small part of his skills with him."
+    "It was entertaining, to say the least. They moved on to other topics, bouncing back and forth about one another."
+    "But soon, their time would come to an end."
+    "Both could handle more, and would gladly come back for another round, but it was getting late and they were expected elsewhere: Kaisei to his shrine, and Sigurd to the hotel he was sojourning. "
+    "Still, this was more agreeable than they were expecting. But a little greedy act couldn't hurt, right ?"
+    "The kitsune had just finished showing and putting his blue haori that the Nordic dragon grabbed his arm to catch his attention."
+    "He turned around to answer, falling right in his trap."
+    
+    scene onsen
+    pause 2.0
+ 
 
 
 
