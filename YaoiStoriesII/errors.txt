@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 99: Line is indented, but the preceding ATL statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    pause 1.5
+File "game/script.rpy", line 97: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    with dissolve
+    ^
+
+File "game/script.rpy", line 103: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    with moveouttop
     ^
 
 Ren'Py Version: Ren'Py 8.5.0.25111603
-Sat May 23 16:13:52 2026
+Sat May 23 17:41:49 2026

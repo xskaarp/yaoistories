@@ -94,10 +94,6 @@ label start:
     "He turned around to answer, falling right in his trap."
     
     scene onsen
-    pause 2.0
- 
-
-
 
 
     return
