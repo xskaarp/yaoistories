@@ -2,6 +2,7 @@
 
 label start:
     "Test"
+    ka "test !!!!!"
 
 
 
