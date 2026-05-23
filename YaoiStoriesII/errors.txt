@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 40: unterminated string literal
+    s '"Hmm how nice, isn’t it ?"
+
+Ren'Py Version: Ren'Py 8.5.0.25111603
+Sat May 23 15:33:13 2026
